@@ -27,7 +27,7 @@ shareCodeList = [
 ];
 //个人码
 inviteIdList = [
-  'ZXTKT022v_13RxwZ91ffPR_wlPcNfAFjRWn6-7zx55awQ','ZXTKT018v_h6QBsa9VfeKByb1AFjRWn6-7zx55awQ','ZXTKT016aGPImbWDIsNs9Zd1FjRWn6-7zx55awQ','ZXTKT020anX1lb-5IPJt9JJyQH-MFjRWn6-7zx55awQ','ZXTKT018v_h6Rhof_FzTIxyb1AFjRWn6-7zx55awQ','ZXTKT0205KkcNmJNlxOBRUCU9axOFjRWn6-7zx55awQ','ZXTKT0225KkcRx9Pp1eCdRuhkvNcdQFjRWn6-7zx55awQ','ZXTKT0205KkcB2FFpxCqQW6K0qFfFjRWn6-7zx55awQ'
+  ''
 ];
 if ($.isNode()) {
   Object.keys(jdCookieNode).forEach((item) => {
